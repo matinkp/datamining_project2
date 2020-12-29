@@ -1,7 +1,3 @@
-#Dataset info:
-#The BIT-Vehicle dataset contains 9,850 vehicle images. 
-#All vehicles in the dataset are divided into six categories: Bus, Microbus, Minivan, Sedan, SUV, and Truck. 
-#The number of vehicles per vehicle type are                  558, 883     , 476    , 5,922, 1,392, and 822, respectively. 
 129,0,202,73,suv
 86,61,189,189,suv
 129,21,210,116,suv
