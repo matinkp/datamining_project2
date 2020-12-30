@@ -34,7 +34,7 @@ for i in y:
             yz.append(z)
             
             
-yz = np.array(yz)"""
+yz = np.array(yz)""" 
     
 
 
